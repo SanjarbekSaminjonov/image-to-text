@@ -30,7 +30,7 @@ source venv/bin/activate  # on a linux distro
 pip install -r requirements.txt
 ```
 
-- And last one, run main.py
+- And finally, run main.py
 
 ```
 python main.py
