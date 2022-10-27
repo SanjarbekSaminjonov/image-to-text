@@ -16,7 +16,7 @@ git clone https://github.com/SanjarbekSaminjonov/image-to-text.git
 - Create and activate virutalenv
 
 ```
-python -m virtualenv venv
+cd image-to-text && python -m virtualenv venv
 ```
 
 ```
